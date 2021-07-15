@@ -117,14 +117,14 @@ under the License.
 <id>central</id>
 <username>admin</username>
 <!--<password>UGFzc3dvcmRANDg1IUAjJA==</password> -->
-<password>Password@485!@#</password>
+<password>Password@485!@#$</password>
 </server>
 
 <server>
 
 <id>snapshots</id>
 <username>admin</username>
-<password>Password@485!@#</password>
+<password>Password@485!@#$</password>
 
 </server>
     <!-- server
