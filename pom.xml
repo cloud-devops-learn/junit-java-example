@@ -25,12 +25,12 @@
     <repository>
         <id>central</id>
         <name>jfrog-server-centos-releases</name>
-        <url>http://34.133.248.168:8081/artifactory/maven-local</url>
+        <url>http://34.133.248.168:8082/artifactory/maven-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>jfrog-server-centos-snapshots</name>
-        <url>http://34.133.248.168:8081/artifactory/maven-local</url>
+        <url>http://34.133.248.168:8082/artifactory/maven-local</url>
     </snapshotRepository>
 </distributionManagement>
 
